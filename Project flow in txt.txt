@@ -1,0 +1,82 @@
+Section 12 ==> in Udemy 
+
+
+
+
+
+1. I have learned about the finding the product by category id
+2. step to do that ==>
+A. create the routes and its end points 
+B. Bind the route in app.module
+C. Now make the button of coffee and book with routerLink
+D. make in the app.component.html embbed the <routerOutlet> key for using the routerLink
+E. now find activatedRoute and then subscribe the paramMap to the method
+F. then find the "Id" that are present in the link and get the value based on that
+G. now use the object of the id value in the method that you have made in service 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
